@@ -1,3 +1,7 @@
+import{ createPayPayment } from './paypal_integration.js';
+
+createPayPayment() 
+
 const product = [
     {
         id:0,
